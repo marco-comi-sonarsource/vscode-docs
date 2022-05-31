@@ -264,6 +264,10 @@ The Python extension maps mypy message categories to VS Code categories through 
 | error | mypyCategorySeverity.error | Error |
 | note | mypyCategorySeverity.note | Information |
 
+## SonarLint
+
+SonarLint is a a free extension that enables to find different types of code issues, including bugs, code smells (maintainability issues) and security vulnerabilities.
+
 ## Troubleshooting linting
 
 | Error message | Cause | Solution |
